@@ -16,7 +16,7 @@ colorlog==5.0.1
 csvw==1.10.1
 cycler==0.10.0
 Cython==0.29.23
-dataclasses==0.8
+dataclasses==0.6
 decorator==5.0.7
 dill==0.3.3
 fastapi==0.63.0
