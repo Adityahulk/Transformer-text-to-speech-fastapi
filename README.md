@@ -1,6 +1,9 @@
 # Transformer-text-to-speech-fastapi
+This api is made on new fast and easy to do "FastApi"
+
 Based on Natural Language Processing Transformer based Text to speech architecture ranked 1 on paperspace TTS domain.
 - Link :- https://paperswithcode.com/paper/neural-speech-synthesis-with-transformer
+
 This is a state of the art transformer based state of the art text to speech machine learning algorithm converted to api for developers to use
 
 To run this:-
